@@ -1,0 +1,41 @@
+
+# Uploading files from your local file system
+
+from google.colab import files
+uploaded = files.upload()
+for fn in uploaded.keys():
+  print('User uploaded file "{name}" with length {length} bytes'.format(
+      name=fn, length=len(uploaded[fn])))
+
+import pandas as pd
+f500 = pd.read_csv("f500.csv", index_col=0)
+f500.index.name = None
+
+# put your code here
+
+# put your code here
+
+# put your code
+
+# put your code here
+
+ceos = f500["ceo"]
+
+# put your code here
+
+# put your code here
+
+# put your code here
+
+# put your code here
+
+# put your code here
+
+# put your code here
+
+import numpy as np
+prev_rank_before = f500["previous_rank"].value_counts(dropna=False).head()
+
+# put your code here
+
+# put your code here
