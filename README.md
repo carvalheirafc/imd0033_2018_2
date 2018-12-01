@@ -61,25 +61,27 @@
 	- Percentiles and Percentiles Ranks
 	- Grouped Frequency Distribution Tables
 	- Information Loss
-- Aula 21
+
+# Avaliados na Terceira Unidade:
+- [ ] Aula 21
 	- Visualizing distributions
 	- Bar, Pie, Histograms plots
 	- Skewed distributions
 	- Symmetrical distributions
-- Aula 22
+- [ ] Aula 22 
 	- Grouped bar plots
 	- Comparing histograms
 	- Kernel density estimates
 	- Strip plots
 	- Box plots
 	- Outliers
-- Aula 23
+- [ ] Aula 23
 	- The mean
 	- The mean as a balance point
 	- Defining the mean algebraically
 	- Estimating the population mean
 	- Estimates from low-sized samples
-- Aula 24
+- [ ] Aula 24
 	- Different weights
 	- The weighted mean
 	- The median for open-ended distributions
