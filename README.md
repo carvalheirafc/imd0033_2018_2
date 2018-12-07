@@ -56,14 +56,14 @@
 
 ## TO DO LIST 
 
-- [ ] Aula 20
+- [x] Aula 20
 	- Frequency Distribution Tables
 	- Sorting Frequency Distribution Tables (nominal, ordinal, interval, ratio)
 	- Proportions and Percentages
 	- Percentiles and Percentiles Ranks
 	- Grouped Frequency Distribution Tables
 	- Information Loss
-- [ ] Aula 21
+- [x] Aula 21
 	- Visualizing distributions
 	- Bar, Pie, Histograms plots
 	- Skewed distributions
