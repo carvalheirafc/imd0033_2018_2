@@ -54,32 +54,34 @@
 	-Quantitative and qualitative variables
 	- Scale of measurements (nominal, ordinal, interval, ratio)
 
-- Aula 20
+## TO DO LIST 
+
+- [ ] Aula 20
 	- Frequency Distribution Tables
 	- Sorting Frequency Distribution Tables (nominal, ordinal, interval, ratio)
 	- Proportions and Percentages
 	- Percentiles and Percentiles Ranks
 	- Grouped Frequency Distribution Tables
 	- Information Loss
-- Aula 21
+- [ ] Aula 21
 	- Visualizing distributions
 	- Bar, Pie, Histograms plots
 	- Skewed distributions
 	- Symmetrical distributions
-- Aula 22
+- [ ] Aula 22
 	- Grouped bar plots
 	- Comparing histograms
 	- Kernel density estimates
 	- Strip plots
 	- Box plots
 	- Outliers
-- Aula 23
+- [ ] Aula 23
 	- The mean
 	- The mean as a balance point
 	- Defining the mean algebraically
 	- Estimating the population mean
 	- Estimates from low-sized samples
-- Aula 24
+- [ ] Aula 24
 	- Different weights
 	- The weighted mean
 	- The median for open-ended distributions
@@ -87,7 +89,7 @@
 	- The median as a resistant statistic
 	- The median for ordinal scales
 	- Sensitivity to changes
-- Aula 25
+- [ ] Aula 25
 	- The mode
 		- ordinal variables
 		- nominal variables
@@ -98,7 +100,7 @@
 		- multimodal
 	- Skewed distributions
 	- Symmetrical distributions
-- Aula 26
+- [ ] Aula 26
 	- The range
 	- Average distance
 	- Mean absolute deviation
