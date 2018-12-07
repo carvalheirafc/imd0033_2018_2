@@ -63,12 +63,20 @@
 	- Percentiles and Percentiles Ranks
 	- Grouped Frequency Distribution Tables
 	- Information Loss
+<<<<<<< HEAD
+=======
+
+>>>>>>> b04d5bbc2fd9a601b70e71c684f799c10995c4bb
 - [ ] Aula 21
 	- Visualizing distributions
 	- Bar, Pie, Histograms plots
 	- Skewed distributions
 	- Symmetrical distributions
+<<<<<<< HEAD
 - [ ] Aula 22
+=======
+- [ ] Aula 22 
+>>>>>>> b04d5bbc2fd9a601b70e71c684f799c10995c4bb
 	- Grouped bar plots
 	- Comparing histograms
 	- Kernel density estimates
