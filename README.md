@@ -68,7 +68,7 @@
 	- Bar, Pie, Histograms plots
 	- Skewed distributions
 	- Symmetrical distributions
-- [ ] Aula 22
+- [x] Aula 22
 	- Grouped bar plots
 	- Comparing histograms
 	- Kernel density estimates
