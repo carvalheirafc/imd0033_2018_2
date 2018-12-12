@@ -100,7 +100,7 @@
 		- multimodal
 	- Skewed distributions
 	- Symmetrical distributions
-- [ ] Aula 26
+- [x] Aula 26
 	- The range
 	- Average distance
 	- Mean absolute deviation
