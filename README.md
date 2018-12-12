@@ -75,13 +75,13 @@
 	- Strip plots
 	- Box plots
 	- Outliers
-- [ ] Aula 23
+- [x] Aula 23
 	- The mean
 	- The mean as a balance point
 	- Defining the mean algebraically
 	- Estimating the population mean
 	- Estimates from low-sized samples
-- [ ] Aula 24
+- [x] Aula 24
 	- Different weights
 	- The weighted mean
 	- The median for open-ended distributions
@@ -89,7 +89,7 @@
 	- The median as a resistant statistic
 	- The median for ordinal scales
 	- Sensitivity to changes
-- [ ] Aula 25
+- [x] Aula 25
 	- The mode
 		- ordinal variables
 		- nominal variables
